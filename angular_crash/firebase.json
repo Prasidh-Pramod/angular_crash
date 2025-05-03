@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/angular_crash",
+    "public": "angular_crash/dist/angular_crash",
     "ignore": [
       "firebase.json",
       "**/.*",
